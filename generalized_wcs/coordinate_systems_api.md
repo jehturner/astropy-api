@@ -33,7 +33,7 @@ very simple so that it can be easily extended.
             the system attribute of the two matches
             """
 
-Four basic frames are defined as subclasses of `CoordinateFrame`:
+Three basic frames are defined as subclasses of `CoordinateFrame`:
 
     class TimeFrame(CoordinateFrame):
         """
